@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: ICUI_AutomationProject0826Project
+  gitServerName: ICAccount0826
+  gitUrl: https://github.com/MeghaRaj69
+  gitUsername: MeghaRaj69
+  gitBranch: TestCustomBranchForForUsedRepoTestCustomBranchForForUsedRepo
